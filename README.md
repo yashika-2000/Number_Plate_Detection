@@ -1,5 +1,6 @@
 # Number_Plate_Detection
 Number Plate Detection using EasyOCR   This repository contains a Python-based implementation for detecting and recognizing number plates in images using the EasyOCR library.  The project provides a streamlined approach to license plate recognition, ideal for beginners and those seeking a straightforward solution. 
+<img width="1912" height="782" alt="image" src="https://github.com/user-attachments/assets/37115fd4-3d93-4a44-815b-e880418bddcf" />
 
 Key Features: 
  
